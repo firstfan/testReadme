@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)
 [![Maven Central](https://img.shields.io/maven-central/v/com.alipay.sofa/jraft-parent.svg?label=maven%20central)](https://search.maven.org/search?q=g:com.alipay.sofa%20AND%20sofa-jraft)
 
-TuGraph 是一个(介绍)
+TuGraph 是基于图模型的一站式数据存储、计算和分析系统。面向金融、工业、政务服务等行业，擅长处理复杂场景、深度关联分析，将关联数据查询、洞察和预测分析提升到一个新水平。更详细的介绍请参考[白皮书](https://www.gartner.com/teamsiteanalytics/servePDF?g=/imagesrv/media-products/pdf/Ant-Group/Ant-Group-1-27JN2OFT-CHS.pdf)
 
 ## 功能特性
 - 功能特性1
